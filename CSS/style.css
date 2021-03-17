@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.sectionOne {
+  background-color: #6b53ff;
+}
+
+.contactBtn {
+  background-color: #fff;
+  color: #6b53ff;
+}
+
+.navtext {
+  color: #fff !important;
+}
+
+/*  */
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/*  */
+
+.servicesImg {
+  width: 150px;
+}
+
+.serviceSpan {
+  color: #6b53ff;
+  text-decoration: none;
+}
+
+.section2 {
+  background-color: #f4f4f4;
+}
+
+.section3 {
+  background-color: #ffffff;
+}
+
+.sliderText {
+  color: #fff;
+}
+
+.contactusBtn {
+  background-color: #6b53ff;
+  color: #fff;
+}
+
+.profileText {
+  color: #6b53ff;
+}
+
+.section4 {
+  background-color: #f3f3f3;
+}
+
+.compNumbers {
+  color: #6b53ff;
+}
+
+.feature-image {
+  width: 60px;
+}
+
+.projectsBtn {
+  background-color: #6b53ff;
+  color: #ffffff;
+}
+
+.cardBgColor {
+  background-color: #f3f3f3;
+}
+
+.section6 {
+  background-color: #6b53ff;
+}
+
+.btnBgColor {
+  background-color: #ffffff;
+  color: #6b53ff;
+}
+
+.clientText {
+  color: #6b53ff;
+}
+
+.footerText {
+  color: #ffffff;
+}
+
+.footerItems {
+  list-style-type: none;
+}
+
+.footerText {
+  color: #fff;
+}
+
+.footerIcons {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footerIcon {
+  color: #fff;
+  height: 2rem;
+  width: 2rem;
+  border: 1px solid #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 500px;
+  margin: 0.5rem;
+}
+
+.footer {
+  background-color: #6b53ff;
+  
+}
+
+
+/*  */
+.section-5-image{
+  height: 325px;
+    object-fit: contain;
+}
+
+.footerCopyright{
+  margin: 0.5rem 0;
+}
